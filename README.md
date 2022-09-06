@@ -3,9 +3,9 @@
 
 # API - ROTAS
 
-  <h3> Cliente </h3>
+  <h3> Cliente :frowning_man: </h3>
   
-  <h4>Se Preferir Baixar O aplicativo Insomnia <a href="https://github.com/rodrigoribeiro027/atvi-autobots-microservico-spring/blob/main/RoutesCrud.json">Colections File</a><h4>
+  <h4>Se Preferir Baixar O aplicativo Insomnia  <a href="https://github.com/rodrigoribeiro027/atvi-autobots-microservico-spring/blob/main/RoutesCrud.json">:link: Colections File</a><h4>
 
 * GET
 ```bash
@@ -29,7 +29,7 @@ http://localhost:8080/excluir
 ```
 <br>
 
-  <h3> Documento </h3>
+  <h3> Documento :briefcase: </h3>
   
 * GET
 ```bash
@@ -49,7 +49,7 @@ http://localhost:8080/deletarDocumentos
 ```
 <br>
 
-  <h3> Endereço </h3>
+  <h3> Endereço :clipboard: </h3>
   
 * GET
 ```bash
@@ -69,7 +69,7 @@ http://localhost:8080/Endereco/DeletarEnderecos
 ```
 <br>
 
-  <h3> Telefone </h3>
+  <h3> Telefone :iphone: </h3>
   
 * GET
 ```bash
@@ -94,7 +94,7 @@ http://localhost:8080/Telefone/DeletarTelefones
 
 <br>
 
-  <h3> Cliente </h3>
+  <h3> Cliente :frowning_man: </h3>
   
 * Post 
 ```bash
@@ -118,7 +118,7 @@ http://localhost:8080/Telefone/DeletarTelefones
 ```
 <br>
 
-<h3> Documento </h3>
+<h3> Documento :briefcase: </h3>
   
 * PUT 
 ```bash
@@ -135,7 +135,7 @@ http://localhost:8080/Telefone/DeletarTelefones
 
 <br>
 
-<h3> Endereço </h3>
+<h3> Endereço :clipboard: </h3>
   
   * PUT 
   ```bash
@@ -153,7 +153,7 @@ http://localhost:8080/Telefone/DeletarTelefones
 
 <br>
 
-<h3> Telefone </h3>
+<h3> Telefone :iphone: </h3>
 
   * PUT 
   ```bash
